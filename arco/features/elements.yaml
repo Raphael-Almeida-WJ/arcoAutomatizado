@@ -1,0 +1,21 @@
+#Página login
+
+campoEmail: "#email"
+campoSenha: "#pass"
+botaoLogin: "#send2"
+iconeSenha: ".customer-password__icon customer-password__icon--login"
+iconeSenhaa: "img[src = 'https://lne.develop-heuristica-353grqq-y3i5xniwz5byk.us-3.magentosite.cloud/media/wysiwyg/geral/password-show-conquista-educacional.svg']"
+botaoAdicionarAoCarrinho: "button[title = 'Adicionar ao carrinho']"
+botaoIrPagamento: "button[data-role = 'proceed-to-checkout']"
+pagarBoleto: "#itaushopline"
+
+iconeMochila: "div[data-block = 'minicart']"
+
+botaoMostrarItens: ".wrp-title active"
+#pagina cadastro
+
+
+#Homepage
+
+
+#checkout
